@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T08:22:23.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="_GuKCwrCbR9UZlJhHOVP" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T08:48:56.058Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="tpmmv3gYFS73xVXc3tyV" version="17.4.6" type="github">
   <diagram id="5ivljqsj1AsLhp-okKk9" name="Page-1">
     <mxGraphModel dx="1018" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -668,6 +668,9 @@
         </mxCell>
         <mxCell id="aDXDRpj96LjG63CBoN02-25" value="Return results with scores" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="2897" width="120" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXDRpj96LjG63CBoN02-28" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="2390" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
