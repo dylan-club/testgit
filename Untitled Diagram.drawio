@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T09:24:26.242Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="tB7xtde5qRTnw9GKAmCg" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T09:46:01.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="rW7ddUGNHyS3l5DEaTMf" version="17.4.6" type="github">
   <diagram id="5ivljqsj1AsLhp-okKk9" name="Page-1">
     <mxGraphModel dx="1018" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -805,6 +805,24 @@
         </mxCell>
         <mxCell id="LMG--cMlitcAKSxRXxJA-17" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="3531" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LMG--cMlitcAKSxRXxJA-21" value="Software developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186.25" y="3750" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LMG--cMlitcAKSxRXxJA-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=block;endFill=1;" edge="1" parent="1" source="LMG--cMlitcAKSxRXxJA-22" target="LMG--cMlitcAKSxRXxJA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LMG--cMlitcAKSxRXxJA-22" value="Frontend developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="3830" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LMG--cMlitcAKSxRXxJA-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=block;endFill=1;" edge="1" parent="1" source="LMG--cMlitcAKSxRXxJA-23" target="LMG--cMlitcAKSxRXxJA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LMG--cMlitcAKSxRXxJA-23" value="Backend developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3830" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LMG--cMlitcAKSxRXxJA-28" value="Product manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="3780" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
