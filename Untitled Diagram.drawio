@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T11:05:59.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="coKxFQP5sJWxZFlfbbnd" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-07T11:34:10.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="j7Y8N3fpPPQySp0hn1lo" version="17.4.2" type="github">
   <diagram id="5ivljqsj1AsLhp-okKk9" name="Page-1">
-    <mxGraphModel dx="875" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="764" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1236,10 +1236,34 @@
           <mxGeometry x="396.88" y="6840" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lAmPtOysidK8Kb-Cdnxn-2" value="&lt;div&gt;Data set configuration platform&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="243.75" y="7060" width="150" height="60" as="geometry" />
+          <mxGeometry x="214.38" y="7060" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lAmPtOysidK8Kb-Cdnxn-3" value="&lt;div&gt;Data set configuration platform&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="507.5" y="7060" width="150" height="60" as="geometry" />
+        <mxCell id="lAmPtOysidK8Kb-Cdnxn-3" value="&lt;div&gt;Vertical table storage management console&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395.87" y="7060" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lAmPtOysidK8Kb-Cdnxn-4" value="&lt;div&gt;HTTP Service access&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214.38" y="7170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lAmPtOysidK8Kb-Cdnxn-5" value="&lt;div&gt;Golang SDK access&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396.56" y="7170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lAmPtOysidK8Kb-Cdnxn-6" value="&lt;div&gt;Logical table configuration management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="7280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lAmPtOysidK8Kb-Cdnxn-7" value="&lt;div&gt;Logical table data management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="7280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lAmPtOysidK8Kb-Cdnxn-8" value="&lt;div&gt;Data Search&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="7280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lAmPtOysidK8Kb-Cdnxn-9" value="&lt;div&gt;Offline data management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="7350" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lAmPtOysidK8Kb-Cdnxn-10" value="Data change notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="7350" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lAmPtOysidK8Kb-Cdnxn-11" value="&lt;div&gt;Interface unified authentication management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="7350" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
