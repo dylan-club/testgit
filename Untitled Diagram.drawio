@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T09:19:49.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="XItoV7bYtZMdfqbiNySK" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T12:10:10.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="DtvZQtrEaJ9qZ06Rzyc7" version="18.0.1" type="github">
   <diagram id="5ivljqsj1AsLhp-okKk9" name="Page-1">
     <mxGraphModel dx="875" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1378,6 +1378,33 @@
         </mxCell>
         <mxCell id="KG9e2ZnF5iIndB1jLe7D-8" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;Data change notification&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=0;labelPosition=center;verticalLabelPosition=middle;align=center;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="501.5" y="7860" width="43" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="KG9e2ZnF5iIndB1jLe7D-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KG9e2ZnF5iIndB1jLe7D-15" target="KG9e2ZnF5iIndB1jLe7D-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KG9e2ZnF5iIndB1jLe7D-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KG9e2ZnF5iIndB1jLe7D-15" target="KG9e2ZnF5iIndB1jLe7D-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KG9e2ZnF5iIndB1jLe7D-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KG9e2ZnF5iIndB1jLe7D-15" target="KG9e2ZnF5iIndB1jLe7D-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KG9e2ZnF5iIndB1jLe7D-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KG9e2ZnF5iIndB1jLe7D-15" target="KG9e2ZnF5iIndB1jLe7D-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KG9e2ZnF5iIndB1jLe7D-15" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Logical table configuration management&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="8220" width="252.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KG9e2ZnF5iIndB1jLe7D-16" value="&lt;div&gt;Data set configuration management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=0;labelPosition=center;verticalLabelPosition=middle;align=center;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="219.38" y="8320" width="43" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="KG9e2ZnF5iIndB1jLe7D-17" value="&lt;div&gt;Data field configuration management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=0;labelPosition=center;verticalLabelPosition=middle;align=center;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="334.76" y="8320" width="43" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="KG9e2ZnF5iIndB1jLe7D-18" value="&lt;div&gt;Data set and field binding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=0;labelPosition=center;verticalLabelPosition=middle;align=center;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="450" y="8320" width="43" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="KG9e2ZnF5iIndB1jLe7D-19" value="&lt;div&gt;data set configuration fetching&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=0;labelPosition=center;verticalLabelPosition=middle;align=center;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="565.38" y="8320" width="43" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
